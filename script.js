@@ -14,12 +14,12 @@ function compute()
       alert("Enter a positive number");
       document.getElementById("principal").focus();
       return false;
+    }
      
-    if(principal ==""){
+    if(principal == ""){
       alert("Enter a positive number");
       document.getElementById("principal").focus();
       return false;
-    }
  }
 }
 
