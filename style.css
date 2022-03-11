@@ -1,4 +1,38 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color: black;
+    font: arial;
+    color: white;
+    }
 
+h1{
+    color: grey;
+    font-family: Tahoma;
+    }
+
+.maindiv{
+    margin: auto;
+    background-color: white;
+    color: black;
+    width:600px;
+    padding-right: 10px;
+    padding-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    border-radius: 25px;
+}
+
+p{
+    
+    padding: 0px 0px 0px 10px;
+}
+
+#rate {
+    padding: 0px 0px 0px 10px;
+
+}
+
+#years {
+    padding: 0px 10px 0px 10px;
+
+}
 
